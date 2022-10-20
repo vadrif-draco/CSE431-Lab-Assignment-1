@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab Assignment 1</string>
+    <string name="text_view_from">Convert From</string>
+    <string name="spinner_from_description">Select currency to convert from</string>
+    <string name="text_view_to">Convert To</string>
+    <string name="switch_button_description">Switch between the two chosen currencies</string>
+    <string name="spinner_to_description">Select currency to convert to</string>
+    <string name="convert_button">Convert</string>
+    <string name="input_value">Enter currency value</string>
+    <string name="output_value">N/A</string>
+    <string name="currency_us">USD</string>
+    <string name="currency_eg">EGP</string>
+    <string name="currency_uk">GBP</string>
+    <string name="exchange_rate_us_to_eg">19.2</string>
+    <string name="exchange_rate_uk_to_eg">22.01</string>
+    <string name="exchange_rate_us_to_uk">1.12</string>
+</resources>
